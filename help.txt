@@ -73,7 +73,9 @@ https://create-react-app.dev/docs/deployment
 // gatsby build to deployment (process)
 https://vercel.com/docs/concepts/git/deploy-hooks
 
+https://www.contentful.com/developers/docs/concepts/webhooks/?utm_source=webapp&utm_medium=webhooks-sidebar&utm_campaign=in-app-help
+
 // using gitlab
 
-https://www.youtube.com/watch?v=5x7gOG2W280&t=50s&ab_channel=PragmaticReviews
+https://youtu.be/5x7gOG2W280
 
