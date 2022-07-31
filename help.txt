@@ -1,0 +1,72 @@
+//Porting an HTML Site to Gatsby
+https://www.gatsbyjs.com/docs/porting-an-html-site-to-gatsby/
+
+// Plugins
+https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/
+
+
+// Adding an Asset Prefix
+https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/asset-prefix/
+
+// images
+https://www.gatsbyjs.com/docs/working-with-images/
+
+// Working with Video
+https://www.gatsbyjs.com/docs/how-to/images-and-media/working-with-video/
+
+// track caption
+https://dequeuniversity.com/rules/axe/4.1/video-caption
+
+
+// YOUTUBE HELP
+https://youtube.com/playlist?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB
+
+
+// static query
+https://www.gatsbyjs.com/docs/how-to/querying-data/static-query/
+https://stackoverflow.com/questions/67526113/gatsby-page-query-returns-undefined
+https://hashnode.com/post/how-to-use-page-queries-and-static-queries-in-gatsby-application-using-graphql-ckz0byz6r0k729js196rh7rs6
+https://www.gatsbyjs.com/docs/how-to/querying-data/use-static-query/
+https://www.gatsbyjs.com/docs/static-vs-normal-queries/
+https://www.gatsbyjs.com/blog/2019-02-20-introducing-use-static-query/
+
+
+
+
+
+// Importing Assets Directly into Files
+https://www.gatsbyjs.com/docs/how-to/images-and-media/importing-assets-into-files/#:~:text=There%20are%20two%20major%20ways,to%20use%20the%20static%20folder.
+
+// sticky nav
+https://www.w3schools.com/howto/howto_js_navbar_sticky.asp
+
+// Swiper
+https://swiperjs.com/react
+
+// React boostrap modal
+https://react-bootstrap.github.io/components/modal/
+
+// youtube video application
+https://youtu.be/c6t3bW7kx6E
+
+
+// Testing
+https://www.googleapis.com/youtube/v3/search?channelId=UCVCVE5qHZMHmdy7iuE_aR-A&key=AIzaSyCtFNtGAWiiyz_Dt8DfMV6QXpk7W5ppG-c&part=snippet,id&order=date&maxResults=10
+
+// auto update ENABLE_GATSBY_REFRESH_ENDPOINT
+https://github.com/gatsbyjs/gatsby/issues/14395
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://create-react-app.dev/docs/deployment
+
